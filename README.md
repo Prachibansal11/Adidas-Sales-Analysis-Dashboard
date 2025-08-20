@@ -1,5 +1,7 @@
 # 👟 Adidas Sales Analysis Dashboard - Power BI Project
 
+![Banner](https://raw.githubusercontent.com/Prachibansal11/Adidas-Sales-Analysis-Dashboard/77aeca3da9c0246990830dbee38cf0c564d1dbad/adidas-HLD.png)
+
 This project presents an interactive and insightful **Power BI dashboard** analyzing **Adidas sales** across various regions in the **USA**. By visualizing sales performance across states, cities, and retail channels, the dashboard empowers strategic business decisions.
 
 ---
